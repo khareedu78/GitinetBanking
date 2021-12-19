@@ -1,0 +1,50 @@
+2021-12-14 12:44:25,965 - eBanking -INFO - URL is opened
+2021-12-14 12:44:26,092 - eBanking -INFO - Entered User Name
+2021-12-14 12:44:26,173 - eBanking -INFO - Entered PWD
+2021-12-14 12:44:27,165 - eBanking -INFO - Login Test Passed
+2021-12-16 13:30:25,777 - eBanking -INFO - URL is opened
+2021-12-16 13:30:25,912 - eBanking -INFO - Entered User Name
+2021-12-16 13:30:25,998 - eBanking -INFO - Entered PWD
+2021-12-16 13:30:27,535 - eBanking -INFO - Login Test Passed
+2021-12-17 07:49:28,329 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2021-12-17 07:49:28,362 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\venka\.cache\selenium\chromedriver\win32\96.0.4664.45\chromedriver.exe
+2021-12-17 07:49:35,381 - eBanking -INFO - URL is opened
+2021-12-17 07:49:35,507 - eBanking -INFO - Entered User Name
+2021-12-17 07:49:35,589 - eBanking -INFO - Entered PWD
+2021-12-17 07:49:36,684 - eBanking -INFO - Login Test Passed
+2021-12-17 08:06:03,188 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 90)
+2021-12-17 08:06:03,220 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\venka\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+2021-12-17 08:06:45,667 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 90)
+2021-12-17 08:06:45,698 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\venka\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+2021-12-17 08:08:52,645 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+2021-12-17 08:08:52,676 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\venka\.cache\selenium\chromedriver\win32\96.0.4664.45\chromedriver.exe
+2021-12-17 08:08:58,084 - eBanking -INFO - URL is opened
+2021-12-17 08:08:58,219 - eBanking -INFO - Entered User Name
+2021-12-17 08:08:58,300 - eBanking -INFO - Entered PWD
+2021-12-17 08:08:59,455 - eBanking -INFO - Login Test Passed
+2021-12-17 09:42:24,441 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using geckodriver 0.29.0 (resolved driver for Firefox 90)
+2021-12-17 09:42:24,465 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.gecko.driver as C:\Users\venka\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+2021-12-17 09:44:56,088 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 96.0.1054.57 (resolved driver for Edge 96)
+2021-12-17 09:44:56,117 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2021-12-17 09:45:00,990 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://msedgedriver.azureedge.net/96.0.1054.57/edgedriver_win64.zip
+2021-12-17 09:45:03,858 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file edgedriver_win64.zip
+2021-12-17 09:45:04,053 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\venka\.cache\selenium\msedgedriver\win64\96.0.1054.57\msedgedriver.exe
+2021-12-17 09:45:10,156 - eBanking -INFO - URL is opened
+2021-12-17 09:45:10,338 - eBanking -INFO - Entered User Name
+2021-12-17 09:45:10,442 - eBanking -INFO - Entered PWD
+2021-12-17 09:45:11,627 - eBanking -INFO - Login Test Passed
+2021-12-17 19:50:24,449 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 96.0.1054.57 (resolved driver for Edge 96)
+2021-12-17 19:50:24,484 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\venka\.cache\selenium\msedgedriver\win64\96.0.1054.57\msedgedriver.exe
+2021-12-17 19:50:30,640 - eBanking -INFO - URL is opened
+2021-12-17 19:50:30,772 - eBanking -INFO - Entered User Name
+2021-12-17 19:50:30,880 - eBanking -INFO - Entered PWD
+2021-12-17 19:50:32,328 - eBanking -INFO - Login Test Passed
+2021-12-18 17:35:55,971 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using msedgedriver 96.0.1054.62 (resolved driver for Edge 96)
+2021-12-18 17:35:56,040 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2021-12-18 17:36:01,094 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/96.0.1054.62/edgedriver_win64.zip
+2021-12-18 17:36:43,999 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting driver from compressed file edgedriver_win64.zip
+2021-12-18 17:36:44,384 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.edge.driver as C:\Users\venka\.cache\selenium\msedgedriver\win64\96.0.1054.62\msedgedriver.exe
+2021-12-18 17:36:53,210 - eBanking -INFO - URL is opened
+2021-12-18 17:36:53,423 - eBanking -INFO - Entered User Name
+2021-12-18 17:36:53,624 - eBanking -INFO - Entered PWD
+2021-12-18 17:36:55,155 - eBanking -INFO - Login Test Passed
